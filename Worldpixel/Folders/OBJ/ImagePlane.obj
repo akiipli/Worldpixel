@@ -1,0 +1,17 @@
+# OBJ written from H:\Worldpixel\Folders\OBJ\ImagePlane.obj
+# Units	meters
+
+o Mesh
+v 1 -1 1
+v -1 -1 1
+v 1 1 1
+v -1 1 1
+vn 0 0 1
+vt 1 1
+vt 0 1
+vt 0 2.98023e-008
+vt 1 2.98023e-008
+mtllib ImagePlane.mtl
+usemtl Default
+g Default
+f 3/1/1 4/2/1 2/3/1 1/4/1
