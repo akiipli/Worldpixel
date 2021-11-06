@@ -1,0 +1,9 @@
+[
+('local_conform   ',array([ 0.,  0.,  0.], dtype=float32)),
+('conform_position',array([ 0.,  0.,  0.], dtype=float32)),
+('local_position  ',array([ 0.,  0.,  0.], dtype=float32)),
+('angle           ',0.349065850399),
+('local           ',(1.0, 0.0, 0.0)),
+('LOCAL           ',True),
+('DIM             ',4),
+]
