@@ -1,0 +1,1 @@
+[0.52359877559829882, ['object2', 'object3', 'object1'], 0, True, 0, 470, 170, u'Folders/Back/SummelComposite3png.PNG', False, 1, (1.0, 1.0, 0.0), ['object-y', 'object-z', 'object-x']]

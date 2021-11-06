@@ -1,0 +1,1 @@
+['Folders/Images/', 'animation_frames', 'xxxx', 25, 0, True, True, True]
