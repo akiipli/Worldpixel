@@ -1,0 +1,1 @@
+['object1', (None, 'Folders/OBJ/Genesis_2_Female1.OBJ', 'Folders/OBJ/Genesis_2_Female1.png', 1, (0, 0, 1.0, 1.0, 1.0), (0, 1))]
