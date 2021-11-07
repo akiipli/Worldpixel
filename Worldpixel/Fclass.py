@@ -6726,7 +6726,7 @@ class tk_App(threading.Thread, Progress):
         V = self.Screen.screen_voxel.keys()
         C = set(V) - set(T)
         c = set(V) - set(C)
-        candidates = array([self.Screen.screen_voxel[i] for i in c])
+        candidates = array([self.Screen.screen_voxel[i] for i in c], dtype = list)
         try:
             candidates = concatenate(candidates)
         except:
