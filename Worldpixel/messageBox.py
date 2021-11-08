@@ -1250,7 +1250,7 @@ class MessageBox(tk.Toplevel):
 
     def callback1(self, e, f):
         eval('self.root.' + f + '(e)')
-        self.destroy()
+        #self.destroy()
 
 class Check_Mark(tk.Toplevel):
     def __init__(self, parent, root, ok, T, check_mark, default,
